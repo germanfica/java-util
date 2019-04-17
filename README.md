@@ -12,9 +12,17 @@ Siga las siguientes instrucciones para poder empezar a usar java-util:
 ## Docs
 ### Ejemplo para leer un archivo
 ```java
-String NOMBRE_ARCHIVO = "src/xyz/germanfica/util/ejemplo.txt";
-String ejemplo = Archivo.leer(NOMBRE_ARCHIVO);
-System.out.println(ejemplo);
+package xyz.germanfica.test;
+
+import xyz.germanfica.util.Archivo;
+
+public class Test {
+	public static void main(String[] args) {
+		String NOMBRE_ARCHIVO = "src/xyz/germanfica/util/ejemplo.txt";
+		String ejemplo = Archivo.leer(NOMBRE_ARCHIVO);
+		System.out.println(ejemplo);
+	}
+}
 ```
 | Módulo        | Descripción   |
 | ------------- | ------------- |
