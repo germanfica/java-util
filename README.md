@@ -7,7 +7,7 @@ Siga las siguientes instrucciones para poder empezar a usar java-util:
 1.	Generar un paquete con el nombre: `xyz.germanfica.util`
 2.	Descargar código Fuente y extraer los archivos
 3.	Arrastrarlos al paquete
-4.	Dar una <a class="github-button" href="https://github.com/germanfica/java-util" data-icon="octicon-star" aria-label="Star germanfica/java-util on GitHub">estrellita</a> al repositorio <3
+4.	Dar una estrellita al repositorio💖
 
 ## Descargas
 Puede obtener acceso al código fuente utilizando una de las siguientes formas:
