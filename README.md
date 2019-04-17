@@ -10,6 +10,12 @@ Siga las siguientes instrucciones para poder empezar a usar java-util:
 4.	Dar una estrellita al repositorio💖
 
 ## Docs
+### Ejemplo para leer un archivo
+```java
+String NOMBRE_ARCHIVO = "src/xyz/germanfica/util/ejemplo.txt";
+String ejemplo = Archivo.leer(NOMBRE_ARCHIVO);
+System.out.println(ejemplo);
+```
 | Módulo        | Descripción   |
 | ------------- | ------------- |
 | guardar(String contenido, String NOMBRE_ARCHIVO) : void  | Guarda una cadena de caracteres en un  archivo de texto.  |
