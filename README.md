@@ -12,8 +12,6 @@ Siga las siguientes instrucciones para poder empezar a usar java-util:
 ## Docs
 ### Ejemplo para leer un archivo
 ```java
-package xyz.germanfica.test;
-
 import xyz.germanfica.util.Archivo;
 
 public class Test {
