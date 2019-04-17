@@ -5,9 +5,16 @@
 ## Guía de instalación
 Siga las siguientes instrucciones para poder empezar a usar java-util:
 1.	Generar un paquete con el nombre: `xyz.germanfica.util`
-2.	Descargar código Fuente y extraer los archivos
+2.	Descargar código fuente y extraer los archivos
 3.	Arrastrarlos al paquete
 4.	Dar una estrellita al repositorio💖
+
+## Docs
+| Módulo        | Descripción   |
+| ------------- | ------------- |
+| guardar(String contenido, String NOMBRE_ARCHIVO) : void  | Guarda una cadena de caracteres en un  archivo de texto.  |
+
+Nota: la documentación no está terminada.
 
 ## Descargas
 Puede obtener acceso al código fuente utilizando una de las siguientes formas:
