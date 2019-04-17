@@ -1,5 +1,5 @@
 # java-util &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/germanfica/java-util/blob/master/LICENSE)
-| [:sparkles: Guía de instalación](#getting-started) | [:rocket: Descargas](#descargas) |
+| [:sparkles: Guía de instalación](#guía-de-instalación) | [:rocket: Descargas](#descargas) |
 | --------------- | -------- |
 
 ## Guía de instalación
