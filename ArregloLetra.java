@@ -2,8 +2,6 @@ package xyz.germanfica.util;
 
 import java.util.Scanner;
 
-import xyz.germanfica.mensaje.Mensaje;
-
 /**
  * Esta clase contiene utilidades para el manejo de arreglos
  * de letras.
@@ -40,7 +38,7 @@ public class ArregloLetra {
 				arregloLetras[i] = ch;
 				i++;
 			} else {
-				System.err.println(Mensaje.leer(2));
+				System.err.println("[Error] Debe ingresar una letra");
 			}
 		}
 		return arregloLetras;
