@@ -82,7 +82,7 @@ public class MatrizTexto {
 		String contenidoDelArchivo, contenidoFila;
 		
 		// Inicialización de variables
-		contenidoDelArchivo = Archivo.leer(ARCHIVO);
+		contenidoDelArchivo = Archivo.leer(ARCHIVO).getTexto();
 		dimensiones = Matriz.dimensionesArchivo(contenidoDelArchivo);// Llamar al módulo que determina la cantidad de filas y columnas de la matriz del archivo
 		cantFilas = dimensiones[0];
 		cantColumnas = dimensiones[1];
