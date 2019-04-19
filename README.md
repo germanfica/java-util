@@ -4,7 +4,7 @@
 
 ## Guía de instalación
 Siga las siguientes instrucciones para poder empezar a usar java-util:
-1.	Abrir un proyecto de NetBeans/Eclipse y generar un paquete con el nombre: `xyz.germanfica.util`
+1.	Generar un paquete con el nombre: `xyz.germanfica.util` dentro de tu proyecto NetBeans/Eclipse. Importante: el paquete tiene que estar dentro de tu proyecto, no en otro proyecto aparte.
 2.	Descargar código fuente y extraer los archivos
 3.	Arrastrarlos al paquete `xyz.germanfica.util` creado
 4.	Dar una estrellita al repositorio💖
@@ -14,6 +14,8 @@ Siga las siguientes instrucciones para poder empezar a usar java-util:
 Se recomienda utilizar una ruta relativa del archivo, absoluta no. Hay dos formas para acceder a un archivo:
 - Usando la ruta absoluta: `E:/eclipse-workspace/java-training/bin/xyz/germanfica/util/ejemplo.txt`
 - Usando la ruta relativa: `src/xyz/germanfica/util/ejemplo.txt`
+
+**Nota muy importante:** el archivo debe estar dentro de tu proyecto si estás utilizando una **ruta relativa**. No fuera de tu proyecto. Y siguiendo el ejemplo de arriba, se debe colocar al final el **nombre de tu archivo** (ejemplo) + **la extensión** (.txt).
 ```java
 import xyz.germanfica.util.Archivo;
 
