@@ -4,7 +4,7 @@
 
 ## Guía de instalación
 Siga las siguientes instrucciones para poder empezar a usar java-util:
-1.	Generar un paquete con el nombre: `xyz.germanfica.util` dentro de tu proyecto NetBeans/Eclipse
+1.	Generar un paquete con el nombre: `xyz.germanfica.util` dentro de tu proyecto NetBeans/Eclipse. Importante: el paquete tiene que estar dentro de tu proyecto, no en otro proyecto aparte.
 2.	Descargar código fuente y extraer los archivos
 3.	Arrastrarlos al paquete `xyz.germanfica.util` creado
 4.	Dar una estrellita al repositorio💖
