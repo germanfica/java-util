@@ -15,7 +15,7 @@ Se recomienda utilizar una ruta relativa del archivo, absoluta no. Hay dos forma
 - Usando la ruta absoluta: `E:/eclipse-workspace/java-training/bin/xyz/germanfica/util/ejemplo.txt`
 - Usando la ruta relativa: `src/xyz/germanfica/util/ejemplo.txt`
 
-Nota muy importante: el archivo debe estar dentro de tu proyecto si estás usando una ruta relativa. No fuera de tu proyecto. Siguiendo el ejemplo de arriba, se debe colocar al final el nombre de tu archivo (ejemplo) + la extensión (.txt).
+**Nota muy importante:** el archivo debe estar dentro de tu proyecto si estás usando una ruta relativa. No fuera de tu proyecto. Siguiendo el ejemplo de arriba, se debe colocar al final el **nombre de tu archivo** (ejemplo) + **la extensión** (.txt).
 ```java
 import xyz.germanfica.util.Archivo;
 
