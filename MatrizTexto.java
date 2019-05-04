@@ -11,10 +11,10 @@ public class MatrizTexto {
 	 * seperados con un espacio
 	 */
 	public static void mostrarConEspacio(String[][] matrizTexto) {
-		// Declaración de variables
+		// Declaracion de variables
 		int cantFilas, cantColumnas;
 		
-		// Inicializaicón de variables
+		// Inicializacion de variables
 		cantFilas = matrizTexto.length;
 		cantColumnas = matrizTexto[0].length;
 		for (int i = 0; i <= cantFilas-1; i++) {
@@ -34,7 +34,7 @@ public class MatrizTexto {
 		String[] arreglo;
 		int j;
 		
-		// Inicialización de variables
+		// Inicializacion de variables
 		arreglo = new String[cantColumnas];
 		j=0;
 		

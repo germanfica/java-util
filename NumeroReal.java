@@ -1,14 +1,14 @@
 package xyz.germanfica.util;
 
 /**
- * Esta clase contiene utilidades para el manejo de números
+ * Esta clase contiene utilidades para el manejo de numeros
  * de reales.
  * 
  * @author German Fica - {@link germanfica.xyz}
  */
 public class NumeroReal {
 	/**
-	 * Devuelve una posición aleatoria dentro de
+	 * Devuelve una posicion aleatoria dentro de
 	 * un rango determinado, establecido por
 	 * parámetro.
 	 */
